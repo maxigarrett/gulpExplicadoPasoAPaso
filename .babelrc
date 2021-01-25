@@ -1,0 +1,5 @@
+//ARCHIVO DE CONFIGURACION BABEL
+// lo unico que va adentro es un objeto 
+{
+    "presets": ["env"]
+}

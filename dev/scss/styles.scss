@@ -1,0 +1,24 @@
+$color:#222;
+
+body
+{
+    background-color: $color;
+    display: grid;
+    font-size: 30px;
+}
+.div
+{
+    background-color: red;
+    display: flex;
+    color: rebeccapurple;
+}
+li
+{
+    color: green;
+    font-size: 3em;
+
+}
+p
+{
+    color: white;
+}
